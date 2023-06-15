@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195561192926",
+    "project_id": "coupons-shopping-app-2027e",
+    "storage_bucket": "coupons-shopping-app-2027e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195561192926:android:1fe2a651137031819ff14f",
+        "android_client_info": {
+          "package_name": "com.example.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195561192926-4vu21ev2ods1rpfsjrdcri3ppcn5so73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC-FTqVPTvA5Vcf0PvT0ELCq3BicqBB40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195561192926-4vu21ev2ods1rpfsjrdcri3ppcn5so73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
