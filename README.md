@@ -3,7 +3,7 @@
 
 ## About
 
-   - This is a simple app for online Shopping with Special coupons using api and MVC pattern.
+   - This is a simple app for online Shopping with Special coupons using api and firebase and MVC pattern.
 
 ## Features
 
@@ -11,8 +11,7 @@
     - You can buy any proudct which you want.
     - You can use coupons for special discounts.
     - You can search product by there name.
-    - 
-   
+ 
 ## App ScreenShots 📲 :-
 
 <img align="left" src="https://github.com/pratikNavapara009/Final_Shopping_coupon_App/assets/121868551/f09bba97-6b35-4147-b1e3-09f59aa33a15" width="220px">
